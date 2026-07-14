@@ -1,0 +1,12 @@
+﻿# 실데이터 절대 커밋 금지
+*.xlsx
+*.xls
+*.csv
+seed*.json
+*_backup*.json
+KC_International_*
+맛밤*
+수입_현황*
+대통밥*
+/raw/
+/private/
